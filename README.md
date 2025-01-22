@@ -19,7 +19,8 @@ I'm a **Front-End Developer** who enjoys creating visually appealing and user-fr
 
 ## 📊 GitHub Stats
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=muraoka2016&show_icons=true&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=muraoka2016&show_icons=true&theme=radical&cache=0)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muraoka2016&layout=compact&theme=radical)
 
 ## 📫 Contact Me
